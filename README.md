@@ -8,7 +8,7 @@ A template for fragment shader development with ThreeJS
 
 # Screenshot
 
-[![](.screenshot.png)](https://strawstack.github.io/FragShaderTemplate/.)
+[![](./screenshot.png)](https://strawstack.github.io/FragShaderTemplate/.)
 
 # Todo
 
